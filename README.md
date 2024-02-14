@@ -8,6 +8,13 @@
 
 > A real time poll system
 
+## Technologies
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![Zod](https://img.shields.io/badge/-Zod-05122A?style=flat&logo=zod)&nbsp;
+![Prisma](https://img.shields.io/badge/-Prisma-05122A?style=flat&logo=prisma)&nbsp;
+![Fastify](https://img.shields.io/badge/-Fastify-05122A?style=flat&logo=fastify)&nbsp;
+
 ## Install
 
 ```sh
